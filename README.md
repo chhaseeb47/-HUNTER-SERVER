@@ -11,7 +11,7 @@ xhunter-server is used to communicate between attacker and victim. It is very ea
 - Signup and create a heroku account [here](https://signup.heroku.com)
 - After login, click the below **Deploy** button.
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anirudhmalik/xhunter-server)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saqibca/xhunter-server)
  
  - Give your app a name `<your_app_name>` and click `Deploy app` button.
  - Wait for the process to complete. 
