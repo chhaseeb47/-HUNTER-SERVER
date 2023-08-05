@@ -1,5 +1,7 @@
 𝙅𝙊𝙄𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙁𝙍𝙄𝙎𝙏 👇👇
 https://t.me/dangerhack56
+𝐽𝑂𝐼𝑁 𝑇𝐸𝐿𝐸𝐺𝑅𝐴𝑀 𝐹𝑂𝑅𝑉𝑀𝑂𝑅𝐸 
+https://t.me/dark_hacker_cj7
 # xhunter-server
 
 xhunter-server is used to communicate between attacker and victim. It is very easy to host on [heroku](https://www.heroku.com/). follow the below steps:
