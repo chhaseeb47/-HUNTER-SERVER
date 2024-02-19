@@ -4,7 +4,7 @@ const server = require('http').createServer(app)
 const { Server } = require('socket.io')
 const io = new Server(server, {
   maxHttpBufferSize: 1e8, // 1mb
-});
+}); 
 
 var victimList={};
 var deviceList={};
